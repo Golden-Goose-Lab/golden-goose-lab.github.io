@@ -3,20 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>httpss://golden-goose-lab.github.io/about/</loc>
+    <loc>https://golden-goose-lab.github.io/post/creon-first-release/</loc>
+    <lastmod>2020-05-12T19:39:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golden-goose-lab.github.io/</loc>
+    <lastmod>2020-05-12T19:39:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golden-goose-lab.github.io/post/</loc>
+    <lastmod>2020-05-12T19:39:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golden-goose-lab.github.io/about/</loc>
     <lastmod>2020-05-12T19:04:44+09:00</lastmod>
   </url>
   
   <url>
-    <loc>httpss://golden-goose-lab.github.io/categories/</loc>
+    <loc>https://golden-goose-lab.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>httpss://golden-goose-lab.github.io/tags/</loc>
+    <loc>https://golden-goose-lab.github.io/series/</loc>
   </url>
   
   <url>
-    <loc>httpss://golden-goose-lab.github.io/</loc>
+    <loc>https://golden-goose-lab.github.io/tags/</loc>
   </url>
   
 </urlset>

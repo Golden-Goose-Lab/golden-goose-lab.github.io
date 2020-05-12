@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>소개 on 골든 구스 랩 :: 황금 거위 연구소 :: Golden Goose Lab</title>
-    <link>httpss://golden-goose-lab.github.io/about/</link>
-    <description>Recent content in 소개 on 골든 구스 랩 :: 황금 거위 연구소 :: Golden Goose Lab</description>
+    <title>소개 on Golden Goose Lab</title>
+    <link>https://golden-goose-lab.github.io/about/</link>
+    <description>Golden Goose Lab (소개)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko</language>
+    <language>ko-kr</language>
     <lastBuildDate>Tue, 12 May 2020 19:04:44 +0900</lastBuildDate>
     
-	<atom:link href="httpss://golden-goose-lab.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://golden-goose-lab.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
